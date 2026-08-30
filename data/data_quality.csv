@@ -1,0 +1,5 @@
+source,latest_date,freshness,refresh_note,data_status
+sales,2026-08-28,fresh,Daily refresh,valid
+marketing,2026-08-24,stale,Weekly refresh; latest available week is 4 days old,valid
+product,2026-08-28,fresh,Daily refresh,valid
+conversion,2026-08-28,fresh,Daily refresh,contradictory

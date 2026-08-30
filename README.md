@@ -132,7 +132,8 @@ All Python dependencies are listed in `requirements.txt`.
 
 ## Data sources
 
-The prototype uses three connected synthetic data sources.
+The prototype uses custom-generated synthetic business data across three connected sources—Sales, Marketing, and Product—to simulate realistic enterprise conditions such as different data grains, regional/product dimensions, and KPI drivers.
+Note: The prototype results are demonstrated using synthetic data and are intended to validate the analytical workflow rather than represent real-world business performance.
 
 ### Sales data
 
